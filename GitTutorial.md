@@ -11,6 +11,8 @@
 
 * Branches merge
 
+1. To merge branches use *git merge branch_name* where branch_name is added
+
 * Conflicts at merge and their solutions
 
 * Seminar summary
