@@ -13,3 +13,4 @@
 
 * Conflicts at merge and their solutions
 
+* Seminar summary
