@@ -15,4 +15,6 @@
 
 * Conflicts at merge and their solutions
 
+1. Conflicts can appear in case contraversal commits of merged branches
+
 * Seminar summary
